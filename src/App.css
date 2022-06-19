@@ -1,3 +1,15 @@
 html {
   background-color: #D88181;
 }
+
+.title {
+  text-align: center;
+  color: #FFEFEF;
+}
+
+.banner-img {
+  width: 1343px;
+  height: 281px;
+  background-color: #483636;
+  margin: auto;
+}
