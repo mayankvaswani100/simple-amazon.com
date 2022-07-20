@@ -1,5 +1,6 @@
 html {
   background-color: #D88181;
+  display: flex;
 }
 
 .title {
@@ -11,5 +12,5 @@ html {
   width: 1343px;
   height: 281px;
   background-color: #483636;
-  margin: auto;
+  -ms-flex-align: center;
 }
